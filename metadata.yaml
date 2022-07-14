@@ -1,0 +1,36 @@
+_repo: En-voyage_68356
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grandmaison, Marie de
+    aliases:
+    - Maison, Marie de Grand
+    - De Grandmaison, Marie
+    birthdate: 1846
+    gutenberg_agent_id: '54739'
+    url: http://www.gutenberg.org/2009/agents/54739
+description: ''
+gutenberg_issued: '2022-06-20'
+identifiers:
+  gutenberg: '68356'
+language: fr
+pgterms:marc904:
+- '4'
+- https://gallica.bnf.fr/ark:/12148/bpt6k65664914?rk=107296
+pgterms:marc905: 20150729043454degrandmai
+pgterms:marc906: '1900'
+pgterms:marc907: FR
+production_note: Claudine Corbasson (This file was produced from images generously
+  made available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: France :A. Capendu,1900.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transportation -- Pictorial works -- Juvenile literature'
+- !lcc 'PZ'
+- !lcc 'HE'
+- !lcsh 'Transportation -- Juvenile fiction'
+- GITenberg
+title: En voyage
+url: http://www.gutenberg.org/ebooks/68356
